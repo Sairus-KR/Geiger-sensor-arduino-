@@ -7,6 +7,9 @@
 - **Graphic** — графическое отображение последних измерений  
 - **Time** — текущая дата и время  
 
+## Фото проекта
+<img width="671" height="406" alt="Geiger sensor" src="https://github.com/user-attachments/assets/5a3ad57a-af1c-478a-9187-70bbe123ac71" />
+
 ## Структура проекта
 
 - `main.ino` — основной скетч Arduino  
